@@ -1,4 +1,5 @@
 # bitamin_RecommendationSystem3
+## 컨퍼런스 주제 : 이미지 기반 숙소 추천 시스템.
 * 빅데이터 분석 동아리 추천시스템 3조
 * 노션 링크 : https://www.notion.so/8-3-efd15d7647c94ce3890c97f6c70220c9
 - 조장 : 서진슬
